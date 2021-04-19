@@ -1,0 +1,11 @@
+.app {
+    width: 450px;
+    height: 300px;
+    margin-left: 20px;
+}
+
+.search-filter {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}

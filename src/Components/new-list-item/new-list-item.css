@@ -1,0 +1,8 @@
+.new-list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.new-list-item {
+    margin-right: 3px;
+}
